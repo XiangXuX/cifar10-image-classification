@@ -1,0 +1,9 @@
+Assignment2Data/
+*.npy
+*.npz
+*.pkl
+*.keras
+*.h5
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
